@@ -1,6 +1,7 @@
 Codecraft Task 1: Caesar Cipher
 
 A simple Python program to encrypt and decrypt text using the Caesar Cipher algorithm.
+
 How It Works:
 
 The program asks the user for:
